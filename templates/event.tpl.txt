@@ -1,0 +1,8 @@
+{$event->GetSummary()} is {$time}{if !empty($duration)} and lasts {$duration}{/if}{if !empty($event->GetDescription())}
+
+{$event->GetDescription()}
+
+{/if}{if count($event->GetAttendees())}{count($event->GetAttendees())} participants:
+{foreach $event->GetAttendees() as $attendee} * {$attendee}
+{/foreach}{/if}{if $event->HasSignup()}
+See the event at {$event->GetURL()}{/if}

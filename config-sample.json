@@ -1,0 +1,20 @@
+{
+	"Cache Hostname": "redis",
+	"Cache Timeout": 86400,
+	"Discord Hook": "https://discordapp.com/api/webhooks/1234567890/xxxxx",
+	"Discord User Event": "Event",
+	"Discord Avatar Event": "https://img.finalfantasyxiv.com/lds/h/D/g126NNaDPy03HLOIEsJy5MRBXY.png",
+	"Discord User Progress": "Progress Raid",
+	"Discord Avatar Progress": "https://img.finalfantasyxiv.com/lds/h/E/BLaFNum5eZTA4O_SkJbw9FTVxw.png",
+	"Discord User Clear": "Clear Raid",
+	"Discord Avatar Clear": "https://img.finalfantasyxiv.com/lds/h/0/nEvovFrqSbEnN1h-XMgQRQbEWc.png",
+	"Discord User": "Notification",
+	"Discord Avatar": "https://img.finalfantasyxiv.com/lds/h/V/bQ475vaKvyHIPXVvFE5Z0VQJUc.png",
+	"Days to Fetch": 4,
+	"Doodle Feed": "https://doodle.com/ics/mydoodle/xxxxx.ics",
+	"Teamup API Key": "teamup-api-key",
+	"Teamup Calendar Key": "teamup-calendar-id-from-url",
+	"Teamup Calendar Events": 1234567,
+	"Teamup Calendar Clears": 1234568,
+	"Teamup Calendar Progress": 1234569
+}
